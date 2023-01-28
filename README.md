@@ -38,4 +38,4 @@ npm start
 Feel free to contribute to this project by opening a pull request or by reporting any issues.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the NO License.
