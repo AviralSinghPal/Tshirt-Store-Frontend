@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './LoginPage.css';
 
-const LoginPage = () => {
+const Login = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
@@ -74,4 +74,4 @@ const buttonStyles = {
   cursor: 'pointer',
 };
 
-export default LoginPage;
+export default Login;
