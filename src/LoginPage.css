@@ -1,0 +1,17 @@
+.login-container {
+    background: #333;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  form {
+    background: rgb(82, 82, 82);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #333;
+    width: 400px;
+    text-align: center;
+  }
+  
